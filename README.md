@@ -16,7 +16,11 @@ BotPool is a Command Line Interface (CLI) chatbot that combines the therapeutic 
 - **OpenAI SDK and GPT-4**
 
   BotPool uses the OpenAI SDK to interact with the GPT-4 model. GPT-4 provides advanced natural language understanding and generation capabilities, allowing BotPool to deliver responses with Deadpool's humor and   wit.
-  
+
+## Screenshot
+
+![Screenshot 2024-07-11 000338](https://github.com/anuragkanojiya1/BotPool/assets/144598258/19e3553a-84d6-4ebb-97b7-c00769a1a60d)
+
 ## Prerequisites
 
 - Python 3.6 or higher
