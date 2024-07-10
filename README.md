@@ -7,6 +7,15 @@ BotPool is a Command Line Interface (CLI) chatbot that combines the therapeutic 
 - **Therapist-Style Advice**: Get advice and suggestions on various topics.
 - **Deadpool's Humor**: Enjoy responses laced with Deadpool's humor and wit.
 - **Continuous Interaction**: Engage in an ongoing conversation until you decide to end it.
+
+## Technology Stack
+- **MindsDB SDK**
+
+  BotPool uses the MindsDB SDK to create and manage a "mind." Minds are AI systems with built-in expertise designed to help AI agents accomplish tasks with minimal setup. The Database Mind, used in BotPool,        simplifies data access and answers questions directly from databases in natural language, eliminating the complexity of reasoning and execution loops for data retrieval.
+
+- **OpenAI SDK and GPT-4**
+
+  BotPool uses the OpenAI SDK to interact with the GPT-4 model. GPT-4 provides advanced natural language understanding and generation capabilities, allowing BotPool to deliver responses with Deadpool's humor and   wit.
   
 ## Prerequisites
 
