@@ -25,8 +25,8 @@ BotPool is a Command Line Interface (CLI) chatbot that combines the therapeutic 
 2. Create a virtual environment and activate it:
 
  ```sh
-  $ python -m venv venv
-  $ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+  python -m venv venv
+  source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```
 
 3. Create a config.py file:
