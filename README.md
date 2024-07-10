@@ -18,8 +18,8 @@ BotPool is a Command Line Interface (CLI) chatbot that combines the therapeutic 
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/BotPool.git
-cd BotPool
+  git clone https://github.com/YOUR_USERNAME/BotPool.git
+  cd BotPool
 ```
 
 2. Create a virtual environment and activate it:
