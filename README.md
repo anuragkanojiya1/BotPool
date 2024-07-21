@@ -21,6 +21,10 @@ BotPool is a Command Line Interface (CLI) chatbot that combines the therapeutic 
 
 ![Screenshot 2024-07-11 000338](https://github.com/anuragkanojiya1/BotPool/assets/144598258/19e3553a-84d6-4ebb-97b7-c00769a1a60d)
 
+## Video 
+
+https://github.com/user-attachments/assets/f9063bf2-94d9-4ab2-a4ac-b8523861ca19
+
 ## Prerequisites
 
 - Python 3.6 or higher
